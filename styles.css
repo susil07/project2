@@ -70,7 +70,7 @@ p{
   padding: 50PX 0 30PX;
 }
 a{
-  font-size:20px;
+  font-size:30px;
   color:#7fffd4;
   text-decoration: none;
   margin: 10px 20px;
@@ -81,6 +81,7 @@ a:hover{
 .copyright{
   color: #EAF6F6;
   padding: 20px 0;
+  Font-size:0.80rem;
 }
 .btn{
   background: #3498db;
