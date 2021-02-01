@@ -54,12 +54,12 @@ p{
 }
 .bottomcloud{
   position: absolute;
-  left: 390px;
-  bottom: 300px;
+  left: 490px;
+  bottom: 400px;
 }
 .topcloud{
   position: absolute;
-  right: 400px;
+  right: 420px;
   top: 50px;
 }
 .middle-container{
