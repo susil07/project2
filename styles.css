@@ -43,7 +43,7 @@ p{
   margin-left: 30px;
 }
 .skill-row{
-  width: 40%;
+  width: 50%;
   margin:100px auto 100px auto;
   text-align: left;
 }
@@ -54,12 +54,12 @@ p{
 }
 .bottomcloud{
   position: absolute;
-  left: 490px;
+  left: 250px;
   bottom: 400px;
 }
 .topcloud{
   position: absolute;
-  right: 420px;
+  right: 300px;
   top: 50px;
 }
 .middle-container{
@@ -68,6 +68,18 @@ p{
 .bottom-container{
   background-color: #66BFBF;
   padding: 50PX 0 30PX;
+}
+a{
+  color: #11999e;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.copyright{
+  color: #EAF6F6;
+  padding: 20px 0;
 }
 .btn{
   background: #3498db;
